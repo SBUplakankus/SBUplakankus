@@ -6,7 +6,7 @@ I love taking part in game jams and developing various games to improve my skill
 
 ---
 
-[🏠 Portfolio](https://yourdomain.com) | [📝 Itch](https://yourblog.com)
+[🏠 Portfolio](https://yourdomain.com) | [🎮 Itch](https://massivemeltmedia.itch.io/)
 
 ---
 
