@@ -24,7 +24,7 @@ I love taking part in game jams and developing various games to improve my skill
 
 ## 🖥 Stats & Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[SBUplakankus]&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SBUplakankus]&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[SBUplakankus])
-![Trophies](https://github-profile-trophy.vercel.app/?username=[SBUplakankus])
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SBUplakankus&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBUplakankus&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SBUplakankus)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SBUplakankus)
