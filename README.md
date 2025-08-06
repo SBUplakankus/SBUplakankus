@@ -1,6 +1,6 @@
 # Hello There 🫡
 
-My names Seán Burke and I'm a games programmer with a love for UI Programming and Data Driven Design.
+My names Seán Burke and I'm a games developer with a big love for AI Programming, UI Programming and Systems Design
 
 I love taking part in game jams and developing various games to improve my skills.
 
