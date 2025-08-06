@@ -1,4 +1,4 @@
-# Hello There 🫡
+# Hello There 😀
 
 My names Seán Burke and I'm a games developer with a big love for AI Programming, UI Programming and Systems Design
 
