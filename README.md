@@ -2,7 +2,9 @@
 
 My names Seán Burke and I'm a games developer with a big love for AI Programming, UI Programming and Systems Design
 
-I love taking part in game jams and developing various games to improve my skills.
+I love taking part in game jams regularly and developing various games to improve my skills.
+
+I also enjoy teaching game development to others through YouTube and in person classes.
 
 ---
 
