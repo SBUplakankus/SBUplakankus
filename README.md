@@ -19,7 +19,6 @@ I love taking part in game jams and developing various games to improve my skill
 | [Job Application Survival](https://massivemeltmedia.itch.io/job-application-survival) | Silly meme game made in a week | [🔗](https://github.com/SBUplakankus/Job-Application-Survival) |
 | [C++ Bug Sim](https://github.com/SBUplakankus/SB_BugSim_CPP) | Simple Bug Sim made using SFML | [🔗](https://github.com/SBUplakankus/SB_BugSim_CPP) |
 | [Salamander](https://massivemeltmedia.itch.io/salamander) | Winner of Best UI at Games Fleadh 2025 | [🔗](https://github.com/SBUplakankus/GF25-Salamander) |
-| ... | ... | ... |
 
 ---
 
