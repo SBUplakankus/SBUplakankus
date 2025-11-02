@@ -21,6 +21,7 @@ I also enjoy teaching game development to others through YouTube and in person c
 | [Job Application Survival](https://massivemeltmedia.itch.io/job-application-survival) | Silly meme game made in a week | [🔗](https://github.com/SBUplakankus/Job-Application-Survival) |
 | [Bug Battle Royale](https://github.com/SBUplakankus/SB_BugSim_CPP) | Simple Bug Sim made using SFML | [🔗](https://github.com/SBUplakankus/SB_BugSim_CPP) |
 | [Salamander](https://massivemeltmedia.itch.io/salamander) | Winner of Best UI at Games Fleadh 2025 | [🔗](https://github.com/SBUplakankus/GF25-Salamander) |
+| [Bubble Bustin Badass](https://massivemeltmedia.itch.io/harry-hog-is-the-bubble-bustin-badass) | Survivors-like made in a couple days | [🔗](https://github.com/SBUplakankus/Bubble-Bustin-Badass) |
 
 ---
 
