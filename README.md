@@ -12,7 +12,7 @@ I also enjoy teaching game development to others through YouTube and in person c
 
 ---
 
-## 🔭 My Personal Projects
+## 🔭 Some Personal Projects
 
 | Project | Description | Repo |
 |--------|-------------|------|
