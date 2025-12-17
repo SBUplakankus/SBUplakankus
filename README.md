@@ -12,7 +12,7 @@ I also enjoy teaching game development to others through YouTube and in person c
 
 ### 🐨 Some Cool Links
 
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://massivemeltmedia.itch.io/)  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.seanburkedev.ie)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://massivemeltmedia.itch.io/)  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.seanburkedev.ie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seanburkemmm/)
 
 ### 🖥️ My Current Dev Stack
 
@@ -41,7 +41,7 @@ I also enjoy teaching game development to others through YouTube and in person c
 
 | Project | Description | Stack | Repo |
 |---------|-------------|-------|------|
-| Medieval Mayhem | 3rd Year Universal Design Project | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=navy) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | [🔗](https://github.com/SBUplakankus/2025-26-GD-3DGED-GCA1) |
+| Medieval Mayhem | 3rd Year Universal Design Project | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=navy) ![MonoGame](https://img.shields.io/badge/MonoGame-FF6A00?style=flat&logoColor=white) | [🔗](https://github.com/SBUplakankus/2025-26-GD-3DGED-GCA1) |
 | Bug Battle Royale | C++ Bug Life Simulation using SFML | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat&logo=sfml&logoColor=white) | [🔗](https://github.com/SBUplakankus/SB_BugSim_CPP) |
 
 ---
