@@ -4,7 +4,7 @@ My names Seán Burke and I'm a games developer with a big love for Game AI Progr
 
 I love taking part in game jams regularly and developing various games to improve my skills.
 
-When I'm not making games I'm playing them and listening to alot of music 
+When I'm not making games I'm playing them, going to the gym, walking my dogs, and listening to alot of music 
 
 I also enjoy teaching game development to others through YouTube and in person classes.
 
