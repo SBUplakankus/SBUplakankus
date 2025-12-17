@@ -10,7 +10,7 @@ I also enjoy teaching game development to others through YouTube and in person c
 
 ## 🐨 Some Cool Links
 
-| Name | Description |
+| Link | |
 |--------|-------------|
 | [Itch Page](https://massivemeltmedia.itch.io/) | Home Page for the Game Studio I founded and publish my games under |
 | [Portfolio](https://www.seanburkedev.ie) | Personal Portfolio website containing some info about me and some of the games I have made |
