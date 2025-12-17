@@ -8,11 +8,16 @@ I also enjoy teaching game development to others through YouTube and in person c
 
 ---
 
-[🏠 Portfolio](https://www.seanburkedev.ie) | [🎮 Itch](https://massivemeltmedia.itch.io/)
+## 🐨 Some Cool Links
+
+| Name | Description |
+|--------|-------------|
+| [Itch Page](https://massivemeltmedia.itch.io/) | Home Page for the Game Studio I founded and publish my games under |
+| [Portfolio](https://www.seanburkedev.ie) | Personal Portfolio website containing some info about me and some of the games I have made |
 
 ---
 
-## 🔭 Some Personal Projects
+## 🐮 Some Personal Projects
 
 | Project | Description | Repo |
 |--------|-------------|------|
@@ -20,6 +25,15 @@ I also enjoy teaching game development to others through YouTube and in person c
 | [Bone to Pick](https://massivemeltmedia.itch.io/bone-to-pick) | Simple Dungeon Crawler made in 48 Hours | [🔗](https://github.com/SBUplakankus/KJ25-Bone-To-Pick) |
 | [Job Application Survival](https://massivemeltmedia.itch.io/job-application-survival) | Silly meme game made in a week | [🔗](https://github.com/SBUplakankus/Job-Application-Survival) |
 | [Salamander](https://massivemeltmedia.itch.io/salamander) | Winner of Best UI at Games Fleadh 2025 | [🔗](https://github.com/SBUplakankus/GF25-Salamander) |
+
+---
+
+## 🐶 Some College Projects
+
+| Project | Description | Repo |
+|--------|-------------|------|
+| Medieval Mayhem | 3rd Year Universal Design Project | [🔗](https://github.com/SBUplakankus/2025-26-GD-3DGED-GCA1) |
+| Bug Battke Royale | C++ Bug Life Simulation using SFML | [🔗](https://github.com/SBUplakankus/SB_BugSim_CPP) |
 
 ---
 
