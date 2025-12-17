@@ -10,6 +10,10 @@ I also enjoy teaching game development to others through YouTube and in person c
 
 ----
 
+### 🐨 Some Cool Links
+
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://massivemeltmedia.itch.io/)  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.seanburkedev.ie)
+
 ### 🖥️ My Current Dev Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal&theme=dark)](https://skillicons.dev)
@@ -17,11 +21,6 @@ I also enjoy teaching game development to others through YouTube and in person c
 ### 📻 I'm Currently Listening To
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=otnaqgg87muum9sode080m3et&cover_image=true&theme=default&show_offline=true&background_color=1e242a&interchange=true&profanity=true&bar_color=59b151&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-
-### 🐨 Some Cool Links
-
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://massivemeltmedia.itch.io/)  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.seanburkedev.ie)
 
 ---
 
