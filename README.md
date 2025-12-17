@@ -18,36 +18,32 @@ I also enjoy teaching game development to others through YouTube and in person c
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=otnaqgg87muum9sode080m3et&cover_image=true&theme=default&show_offline=true&background_color=1e242a&interchange=true&profanity=true&bar_color=59b151&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
----
 
-## 🐨 Some Cool Links
+### 🐨 Some Cool Links
 
-| Link | |
-|--------|-------------|
-| [Itch Page](https://massivemeltmedia.itch.io/) | Home Page for the Game Studio I founded and publish my games under |
-| [Portfolio](https://www.seanburkedev.ie) | Personal Portfolio website containing some info about me and some of the games I have made |
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://massivemeltmedia.itch.io/)  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.seanburkedev.ie)
 
 ---
 
 ## 🐮 Some Personal Projects
 
-| Project | Description | Repo |
-|--------|-------------|------|
-| [Cool VR Game](#) | Work in Progress | [🔗](https://github.com/SBUplakankus/VR_Game) |
-| [Salamander](https://massivemeltmedia.itch.io/salamander) | Winner of Best UI at Games Fleadh 2025 | [🔗](https://github.com/SBUplakankus/GF25-Salamander) |
-| [Unity Tutorials](https://www.youtube.com/@MassiveMeltMedia/playlists) | Source Code for my YouTube Tutorials | [🔗](https://github.com/SBUplakankus/Unity-Tutorials) |
-| [Bone to Pick](https://massivemeltmedia.itch.io/bone-to-pick) | Simple Dungeon Crawler made in 48 Hours | [🔗](https://github.com/SBUplakankus/KJ25-Bone-To-Pick) |
-| [Job Application Survival](https://massivemeltmedia.itch.io/job-application-survival) | Silly meme game made in a week | [🔗](https://github.com/SBUplakankus/Job-Application-Survival) |
+| Project | Description | Stack | Repo |
+|---------|-------------|-------|------|
+| [Cool VR Game](#) | Work in Progress | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | [🔗](https://github.com/SBUplakankus/VR_Game) |
+| [Salamander](https://massivemeltmedia.itch.io/salamander) | Winner of Best UI at Games Fleadh 2025 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=navy) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | [🔗](https://github.com/SBUplakankus/GF25-Salamander) |
+| [Unity Tutorials](https://www.youtube.com/@MassiveMeltMedia/playlists) | Source Code for my YouTube Tutorials | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | [🔗](https://github.com/SBUplakankus/Unity-Tutorials) |
+| [Bone to Pick](https://massivemeltmedia.itch.io/bone-to-pick) | Simple Dungeon Crawler made in 48 Hours | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | [🔗](https://github.com/SBUplakankus/KJ25-Bone-To-Pick) |
+| [Job Application Survival](https://massivemeltmedia.itch.io/job-application-survival) | Silly meme game made in a week | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | [🔗](https://github.com/SBUplakankus/Job-Application-Survival) |
 
 
 ---
 
 ## 🐷 Some University Projects
 
-| Project | Description | Repo |
-|--------|-------------|------|
-| Medieval Mayhem | 3rd Year Universal Design Project | [🔗](https://github.com/SBUplakankus/2025-26-GD-3DGED-GCA1) |
-| Bug Battke Royale | C++ Bug Life Simulation using SFML | [🔗](https://github.com/SBUplakankus/SB_BugSim_CPP) |
+| Project | Description | Stack | Repo |
+|---------|-------------|-------|------|
+| Medieval Mayhem | 3rd Year Universal Design Project | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=navy) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | [🔗](https://github.com/SBUplakankus/2025-26-GD-3DGED-GCA1) |
+| Bug Battle Royale | C++ Bug Life Simulation using SFML | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat&logo=sfml&logoColor=white) | [🔗](https://github.com/SBUplakankus/SB_BugSim_CPP) |
 
 ---
 
