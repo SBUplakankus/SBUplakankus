@@ -4,11 +4,23 @@ My names Seán Burke and I'm a games developer with a big love for Game AI Progr
 
 I love taking part in game jams regularly and developing various games to improve my skills.
 
+When I'm not making games I'm playing them and listening to alot of music 
+
 I also enjoy teaching game development to others through YouTube and in person classes.
+
+----
+
+### 🖥️ My Current Dev Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,unity,unreal&theme=dark)](https://skillicons.dev)
+
+### 📻 I'm Currently Listening To
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=otnaqgg87muum9sode080m3et&cover_image=true&theme=default&show_offline=true&background_color=1e242a&interchange=true&profanity=true&bar_color=59b151&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
-## 🐨 Some Cool Links
+### 🐨 Some Cool Links
 
 | Link | |
 |--------|-------------|
@@ -17,7 +29,7 @@ I also enjoy teaching game development to others through YouTube and in person c
 
 ---
 
-## 🐮 Some Personal Projects
+### 🐮 Some Personal Projects
 
 | Project | Description | Repo |
 |--------|-------------|------|
@@ -30,7 +42,7 @@ I also enjoy teaching game development to others through YouTube and in person c
 
 ---
 
-## 🐶 Some College Projects
+### 🐷 Some University Projects
 
 | Project | Description | Repo |
 |--------|-------------|------|
@@ -39,8 +51,13 @@ I also enjoy teaching game development to others through YouTube and in person c
 
 ---
 
-## 🖥 Stats & Trophies
+### 🖥 Stats & Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SBUplakankus&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBUplakankus&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SBUplakankus)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SBUplakankus&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBUplakankus&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=58a6ff)
+
+
+
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSBUplakankus&countColor=%231f6feb&labelColor=%230d1117)
+
+---
