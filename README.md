@@ -21,10 +21,12 @@ I also enjoy teaching game development to others through YouTube and in person c
 
 | Project | Description | Repo |
 |--------|-------------|------|
+| [Cool VR Game](#) | Work in Progress | [🔗](https://github.com/SBUplakankus/VR_Game) |
+| [Salamander](https://massivemeltmedia.itch.io/salamander) | Winner of Best UI at Games Fleadh 2025 | [🔗](https://github.com/SBUplakankus/GF25-Salamander) |
 | [Unity Tutorials](https://www.youtube.com/@MassiveMeltMedia/playlists) | Source Code for my YouTube Tutorials | [🔗](https://github.com/SBUplakankus/Unity-Tutorials) |
 | [Bone to Pick](https://massivemeltmedia.itch.io/bone-to-pick) | Simple Dungeon Crawler made in 48 Hours | [🔗](https://github.com/SBUplakankus/KJ25-Bone-To-Pick) |
 | [Job Application Survival](https://massivemeltmedia.itch.io/job-application-survival) | Silly meme game made in a week | [🔗](https://github.com/SBUplakankus/Job-Application-Survival) |
-| [Salamander](https://massivemeltmedia.itch.io/salamander) | Winner of Best UI at Games Fleadh 2025 | [🔗](https://github.com/SBUplakankus/GF25-Salamander) |
+
 
 ---
 
