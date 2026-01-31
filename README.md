@@ -28,7 +28,7 @@ I also enjoy teaching game development to others through YouTube and in person c
 
 | Project | Description | Stack | Repo |
 |---------|-------------|-------|------|
-| [Cool VR Game](https://github.com/SBUplakankus/VR_Game) | Work in Progress | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | [🔗](https://github.com/SBUplakankus/VR_Game) |
+| [Monsta Choppa](https://github.com/SBUplakankus/VR_Game) | Shelved VR game to showcase Unity proficiency | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | [🔗](https://github.com/SBUplakankus/VR_Game) |
 | [Salamander](https://massivemeltmedia.itch.io/salamander) | Winner of Best UI at Games Fleadh 2025 | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=navy) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | [🔗](https://github.com/SBUplakankus/GF25-Salamander) |
 | [Unity 6 Tutorials](https://sbuplakankus.github.io/unity-6-tutorials/) | Repo and Website for my Unity 6 Tutorials | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=navy) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) | [🔗](https://github.com/SBUplakankus/unity-6-tutorials) |
 
