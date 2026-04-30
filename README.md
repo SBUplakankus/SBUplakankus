@@ -2,7 +2,7 @@
 
 **`Game Systems · Tooling · UI Programming`**
 
-Preparing for graduation with a focus on Avalonia MVVM .NET applications, game jams, and teaching dev through YouTube, CoderDojo, and DojoMór. Spending my free time at the gym, walking my dogs, and caring for my colony of 10 ferals.
+Preparing for graduation with a focus on developing Avalonia MVVM .NET Applications, Game Systems Prototypes, and teaching game dev through YouTube, CoderDojo, and DojoMór. Spending my free time at the gym, walking my dogs, and caring for my colony of 10 feral cats.
 
 <p align="left">
    <a href="https://www.youtube.com/@MassiveMeltMedia?sub_confirmation=1">
